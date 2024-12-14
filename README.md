@@ -4,6 +4,8 @@
 
 ## 📢 About the Project
 "RumahMitha" represents the next evolution of Mikhbotam, an advanced bot platform designed for enhanced automation and powerful integrations.
+## Security Policy
+  [Security Vulnerable](SECURITY.md)
 
 ### Key Features:
 - 🤖 Advanced Bot Automation
